@@ -1,0 +1,26 @@
+h1{
+    color: indigo;
+    font-size: 4em;
+    font-family: Arial Black;
+}
+
+button{
+    width: 20%;
+    margin: 0 auto;
+}
+
+.linha_baixo{
+    border-bottom: solid 1px black;
+}
+.linha_direita{
+    border-right: solid 1px black;
+}
+
+.col{
+    width: 100px;
+    height: 100px;
+}
+.jogada{
+    width: 100%;
+    height: 100%;
+}

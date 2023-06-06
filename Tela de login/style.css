@@ -1,0 +1,27 @@
+.bg-dark{
+    background: linear-gradient(0deg, rgba(70,0,164,1) 0%, rgba(217,0,188,1) 100%);
+}
+
+html, body{
+    height: 100vh;
+}
+
+.card{
+    width: 70%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px rgb(0,0,0,0.5);
+}
+
+form > * {
+    margin-bottom: 1rem;
+}
+
+i{
+    font-size: 2em;
+    color: black;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}

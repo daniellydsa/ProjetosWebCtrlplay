@@ -1,0 +1,32 @@
+html{
+    background-color: rgb(44, 37, 105);
+    color: white;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+a{
+    background-color: rgb(135, 217, 255);
+    color: black;
+    margin: 1em;
+    padding: 1em;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: rgb(89, 202, 255);
+}
+
+li{
+    display: inline;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5em;
+}
